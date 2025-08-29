@@ -8,3 +8,4 @@ Structured layout with sections (Profile, Skills, Experience, Education)
 Clean and minimal styling
 🚀 This project is part of my learning journey in web development.
 https://github.com/hdsuarez/Single-Page-CV/tree/main https://roadmap.sh/projects/Basic-HTML-Website
+https://roadmap.sh/projects/basic-html-website
